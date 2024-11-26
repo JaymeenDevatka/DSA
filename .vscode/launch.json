@@ -1,0 +1,88 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "HashSetExam",
+      "request": "launch",
+      "mainClass": "HashSetExam",
+      "projectName": "DSA_efcd8086"
+    },
+    {
+      "type": "java",
+      "name": "StringBufferex",
+      "request": "launch",
+      "mainClass": "StringBufferex",
+      "projectName": "DSA_efcd8086"
+    },
+    {
+      "type": "java",
+      "name": "LinkedHashSetExample",
+      "request": "launch",
+      "mainClass": "LinkedHashSetExample",
+      "projectName": "DSA_efcd8086"
+    },
+    {
+      "type": "java",
+      "name": "HashSetExample",
+      "request": "launch",
+      "mainClass": "HashSetExample",
+      "projectName": "DSA_efcd8086"
+    },
+    {
+      "type": "java",
+      "name": "DuplicateElement",
+      "request": "launch",
+      "mainClass": "DuplicateElement",
+      "projectName": "DSA_efcd8086"
+    },
+    {
+      "type": "java",
+      "name": "SortByJCF",
+      "request": "launch",
+      "mainClass": "SortByJCF",
+      "projectName": "DSA_efcd8086"
+    },
+    {
+      "type": "java",
+      "name": "TreeByJava",
+      "request": "launch",
+      "mainClass": "TreeByJava",
+      "projectName": "DSA_efcd8086"
+    },
+    {
+      "type": "java",
+      "name": "StackClass",
+      "request": "launch",
+      "mainClass": "StackClass",
+      "projectName": "DSA_efcd8086"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug",
+      "program": "${workspaceFolder}/<executable file>",
+      "args": [],
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/hp/OneDrive/Desktop/Jaymeen Devatka/Jaymeen Code/jaymeendevatkacharusat/DSA",
+      "program": "c:/Users/hp/OneDrive/Desktop/Jaymeen Devatka/Jaymeen Code/jaymeendevatkacharusat/DSA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
